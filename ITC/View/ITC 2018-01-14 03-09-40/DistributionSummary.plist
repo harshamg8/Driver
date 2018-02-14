@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ITC.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1DDA1E5A3DF954336C96F7A3782E1521AB4329C5</string>
+				<key>dateExpires</key>
+				<string>27/04/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MDZXD9TYPW.com.transad.driverapp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MDZXD9TYPW</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>MDZXD9TYPW.com.transad.driverapp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ITC.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1f3458aa-5c71-47a4-917e-cf889c143eae</string>
+				<key>name</key>
+				<string>Taxi Driver Mobile App AdHoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MDZXD9TYPW</string>
+				<key>name</key>
+				<string>The Centre for Regulation of Transport By Hire cars</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

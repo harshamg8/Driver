@@ -1,0 +1,19 @@
+PODS:
+  - Crashlytics (3.9.3):
+    - Fabric (~> 1.7.2)
+  - Fabric (1.7.2)
+  - PieCharts (0.0.5)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - PieCharts
+
+SPEC CHECKSUMS:
+  Crashlytics: dbb07d01876c171c5ccbdf7826410380189e452c
+  Fabric: 9cd6a848efcf1b8b07497e0b6a2e7d336353ba15
+  PieCharts: a0fb4784a3460088c8ba7dfb00b89784ddaa7e70
+
+PODFILE CHECKSUM: bc2e8ee5e564d6445dda99a048f9e6cefc4e3539
+
+COCOAPODS: 1.4.0

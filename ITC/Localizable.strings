@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings
+  ITC
+
+  Created by Harsha M G on 20/12/17.
+  Copyright © 2017 infinitesol. All rights reserved.
+*/
+
+
+"Accommodation" =  "السكن";
+"Action date"  =  "تاريخ الإجراء";
+"Allowances" = "البدلات";
+"Amount" = "كمية";
+"Arabic"  =  "عربى";
+"Area" =   "منطقة";
+"Article name"  = "اسم البند";
+"Audit"  =  "تدقيق";
+"Black points"  =  "نقاط سوداء";
+"Book Exam"  =  "حجز موعد للاختبار";
+"Book Investigation" =  "حجز موعد للتحقيق";
+"CANCEL"  =  "إلغاء";
+"Car" =  "مركبة";
+"Car Profile" =   "ملف المركبة";
+"Certificates"  =  "شهادات";
+"Chapter Code"  =  "رمز الفصل التدريبي";
+"Chapter Name"  =  "اسم الفصل التدريبي";
+"Chasis Number"  =  "رقم القاعدة";
+"Complainer"  = "الشاكي";
+"Complaint details"  =  "تفاصيل الشكوى";
+"Complaint Name" = "اسم الشكوى";
+"Complaints" = "شكاوي";
+"Contact" = "تواصل";
+"Course code" = "رمز الدورة التدريبية";
+"Course Name" = "اسم الدورة التدريبية";
+"Date" = "التاريخ";
+"Date of birth" = "تاريخ الولادة";
+"Driver" = "السائق";
+"Driver Details" = "تفاصيل السائق";
+"Driver status" = "حالة السائق";
+"Emirates Id" = "رقم الهوية";
+"English" = "الإنجليزية";
+"Exam" = "اختبار";
+"Exam Centre" = "مركز الاختبارات";
+"Exam date" = "موعد الاختبار";
+"Exam Results" = "نتائج الاختبارات";
+"Exam Type" = "نوع الاختبار";
+"Expiry date" = "تاريخ الانتهاء";
+"Feedback" = "ملاحظات";
+"Filter" = "فلترة";
+"Fine date" = "تاريخ المخالفة";
+"Fine Number" = "رقم المخالفة";
+"Fines" = "المخالفات";
+"Franchise Details" = "تفاصيل الشركة المشغلة";
+"Franchise Name" = "اسم الشركة المشغلة";
+"Franchise Type" = "نوع المشغل";
+"From Date" = "من تاريخ";
+"Gender" = "جنس";
+"Grievance" = "تظلم";
+"History" = "التاريخ";
+"Home" = "الصفحة الرئيسية";
+"How useful this application is?" = "ما مدى فائدة هذا التطبيق ";
+"Inspection"  =  "تفتيش";
+"Investigation"  =  "تحقيق";
+"Investigation Schedule" =   "جدول التحقيق";
+"KPI"  =  "مؤشر الاداء";
+"Lesser"  =  "أدنى";
+"License Expiry Date" = "تاريخ انتهاء الرخصة";
+"License Number" = "رقم الرخصة";
+"License Source Id" = "جهة إصدار الرخصة";
+"Location" =  "موقعك";
+"Login" = "تسجيل الدخول";
+"Logout"  =  "تسجيل الخروج";
+"Make & Model"  =  "النوع وسنة الصنع";
+"Marks"  =  "علامات";
+"Mobile Number"  =  "رقم الهاتف المتحرك";
+"Moderate" =   "معتدل";
+"Name"  =  "اسم";
+"Nationality"  =  "جنسية";
+"Next Inspection Date" = "تاريخ الفحص التالي";
+"No complaints" =  "لا يوجد شكاوى";
+"No Schedules available" = "لا توجد جدولة";
+"Note" = "ملاحظة";
+"Number" = "رقم";
+"OK" = "حسنا";
+"Operating Region" = "المنطقة التشغيلية";
+"Pass/fail" = "نجح /  رسوب";
+"Permit" = "تصريح";
+"Permit Details"  = "تفاصيل التصريح";
+"Permit Expiry Date"  =  "تاريخ انتهاء التصريح";
+"Permit Issue Date" =   "تاريخ اصدار التصريح";
+"Permit number"  = "رقم التصريح";
+"Permit Renew Date"  =  "تاريخ تجديد التصريح";
+"Permit Status"  = "حالة التصريح";
+"Permits"  =  "تصاريح";
+"Points"  =  "نقاط";
+"Profile"  =  "الملف الشخصي";
+"Profile status"  =  "حالة الملف الشخصي";
+"Religion"  =  "الديانة";
+"Remaining Points"  =  "النقاط المتبقية";
+"Remarks"  =  "ملاحظات";
+"Renewal date"  =  "تاريخ التجديد";
+"Required Before"  =  "مطلوب قبل";
+"Required Training"  =  "التدريب المطلوب";
+"Salary"  =  "راتب";
+"SAVE"  =  "حفظ";
+"Schedule" = "جدول";
+"Scheduled date" = "التاريخ المجدول";
+"SEND FEEDBACK" = "ارسل رأيك";
+"Settings" = "إعدادات";
+"sign in" = "تسجيل الدخول";
+"Status" = "الحالة";
+"Sticker Number" = "رقم الملصق";
+"SUBMIT" = "تقديم";
+"Suspension Date" = "تاريخ الإيقاف";
+"Suspension Status" = "حالة الإيقاف";
+"Taxi driver"  =  "سائق مركبة أجرة";
+"Time"  =  "الوقت";
+"To Date"  =  "إلى تاريخ";
+"Total Maximum Points" =   "مجموع النقاط الأقصى";
+"Training"  =  "تدريب";
+"Training Source"  =  "مصدر التدريب";
+"Transaction Number"  =  "رقم المعاملة";
+"Type the remarks here" =   "اكتب الملاحظات هنا";
+"under construction"  =  "تحت الصيانة";
+"Validity"  =  "صلاحية";
+"Vehicle"  =  "مركبة";
+"Vehicle Number"  =  "رقم المركبة";
+"Vehicle Profile"  =  "ملف المركبة";
+"Vehicle shift"  =  "مناوبة المركبة";
+"Very useful"  =  "مفيد جدا";
+"Violation Id"  =  "رمز المخالفة";
+"White points"  =  "نقاط بيضاء";
+"Fuel Type" = "نوع الوقود";
+"Seat Count" = "عدد المقاعد";
+"Engine Number" = "رقم المحرك";
+"Additional Region" = "منطقة إضافية";
+"Category" = "الفئة";
+"Change Password" = "تغيير الرقم السري";
+"New Password" = "رقم سري جديد";
+"Confirm Password" = "تأكيد الرقم السري ";
+"Edit" = "تعديل";
+"Renew History" = "سجل التجديد";
+"Suspension History" = "سجل الإيقاف";
+"Type" = "النوع";
+"From" = "من";
+"Until" = "إلى";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
